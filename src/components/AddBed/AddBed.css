@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.cv {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	flex-direction: column;
+}
+
+.panelSuperior {
+	height: 70px;
+}
+
+.panelSuperior {
+	height: 70px;
+}
+
+.infoCamas {
+	flex-direction: row;
+	width: 100px;
+}
+
+.labels {
+	flex-direction: row;
+}
+
+.labelText {
+	flex-direction: row;
+	width: 60ch;
+}

@@ -1,0 +1,10 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.MuiTextField-root fieldset{
+  border-color: rgb(51, 108, 251);
+}
+
+.MuiTextField-root:hover fieldset{
+  border-color: rgb(51, 108, 251);
+}
